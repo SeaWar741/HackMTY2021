@@ -1,0 +1,26 @@
+.slides{
+    width: 90%;
+    max-width: 800px;
+    padding: 50px;
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 50px;
+    background-color: rgb(245,245,255);
+}
+
+.image{
+    width: 90%;
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.label  {
+    margin-bottom: 50px;
+}
+
+.btn{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    border-radius: 20px;
+}
